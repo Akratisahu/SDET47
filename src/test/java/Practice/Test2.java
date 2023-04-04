@@ -5,8 +5,8 @@ import org.testng.annotations.Test;
 public class Test2 {
 
 	@Test
-	public void Method6() {
-		System.out.println("----Test01------");
+	public void Method7() {
+		System.out.println("----Test07------");
 	}
 	@Test
  public void Method5() {
