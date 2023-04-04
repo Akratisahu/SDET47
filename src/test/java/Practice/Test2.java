@@ -12,4 +12,9 @@ public class Test2 {
  public void Method5() {
 	System.out.println("----Test02------");	
 	}
+	@Test
+	public void solve()
+	{
+		System.out.println("hi");
+	}
 }
